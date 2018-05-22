@@ -1,6 +1,6 @@
 {
   "name": "homebridge-instance-dummy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "homebridge-instance-dummy",
   "main": "index.js",
   "devDependencies": {},
