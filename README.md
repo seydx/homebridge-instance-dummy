@@ -7,9 +7,10 @@ As the name says, this plugin only acts lik a plugin. It has no functions and of
 
 After [Homebridge](https://github.com/nfarina/homebridge) has been installed:
 
--  ```sudo npm install -g SeydX/homebridge-instance-dummy```
-OR
--  ```sudo npm install -g --save https://github.com/SeydX/homebridge-instance-dummy```
+-  ```sudo npm i -g homebridge-instance-dummy@latest```
+
+sudo npm i -g homebridge-instance-dummy@latest
+
 
 ## Example Config
 
