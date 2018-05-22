@@ -1,0 +1,30 @@
+{
+  "name": "homebridge-instance-dummy",
+  "version": "1.0.0",
+  "description": "homebridge-instance-dummy",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeydX/homebridge-instance-dummy.git"
+  },
+  "author": "SeydX (https://github.com/SeydX/homebridge-instance-dummy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeydX/homebridge-instance-dummy/issues"
+  },
+  "homepage": "https://github.com/SeydX/homebridge-instance-dummy#readme",
+  "keywords": [
+    "dummy",
+    "homebridge",
+    "plugin",
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "bridge": {
+     ...
+ },
+ "accessories": [
+    {
+      "accessory": "DummyPlugin",
+      "name": "Dummy"
+    }
+ ]
+}
