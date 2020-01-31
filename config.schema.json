@@ -1,0 +1,16 @@
+{
+    "pluginAlias": "DummyPlugin",
+    "pluginType": "accessory",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "title": "Name",
+                "type": "string",
+                "required": true,
+                "default": "Dummy",
+                "description": "The name that will appear in the Home App and your homebridge log."
+            }
+        }
+    }
+}
